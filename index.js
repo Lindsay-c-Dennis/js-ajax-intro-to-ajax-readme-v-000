@@ -1,5 +1,5 @@
 function showRepositories(event, data) {
-  console.log(this.responseText)
+  console.log(this.responseText);
 }
 
 function getRepositories() {
